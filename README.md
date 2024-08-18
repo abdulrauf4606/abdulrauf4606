@@ -2,7 +2,7 @@
 👀 I’m interested in pushing the boundaries of technology through innovative AI solutions, data engineering, and automation.
 🌱 I’m currently learning advanced techniques in AI, deep learning, and exploring cutting-edge tools in data science.
 💞️ I’m looking to collaborate on AI-driven projects, open-source contributions, and innovative chatbot development.
-📫 How to reach me: [Your email or LinkedIn profile]
+📫 How to reach me: abdulrauf4606@gmail.com
 😄 Pronouns: He/Him
 ⚡ Fun fact: I love blending technology with creativity, whether it’s building a chatbot that can crack jokes or using AI to solve complex problems!
 <!---
